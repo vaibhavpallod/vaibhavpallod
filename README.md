@@ -37,7 +37,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavpallod&show_icons=true&locale=en&layout=compact" alt="vaibhavpallod" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhavpallod&show_icons=true&locale=en" alt="vaibhavpallod" /></p>
+![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibhavpallod&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=prs,issues)
 <!--
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavpallod&" alt="vaibhavpallod" /></p>
 
