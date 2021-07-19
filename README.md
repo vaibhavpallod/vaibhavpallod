@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on [4K Mobile Wallpapers App](https://play.google.com/store/apps/details?id=com.vsp.best_mobile_images)
 
-- 👯 I’m looking to collaborate on **Projects which will help out out community to solve their general problems**
+- 👯 I’m looking to collaborate on **Projects which will help out community to solve their general problems**
 
 - 🤝 I’m looking for help with **Indian Railway API's**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vaibhavpallod?tab=repositories](https://github.com/vaibhavpallod?tab=repositories)
 
-- 📝 I regularly make videos on some rare problems which common man face during development [https://www.youtube.com/channel/UCXWAQU0STporqf1lvE3uTtg/featured](https://www.youtube.com/channel/UCXWAQU0STporqf1lvE3uTtg/featured)
+- 📝 I regularly make videos on the some rare problems which common man face during development [https://www.youtube.com/channel/UCXWAQU0STporqf1lvE3uTtg/featured](https://www.youtube.com/channel/UCXWAQU0STporqf1lvE3uTtg/featured)
 
 - 💬 Ask me about **Android (Java, Flutter)**
 
