@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **vaibhavpallod@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1yvMoJt126pRLYjBn00ejeU6SiIFrHZTF/view?usp=sharing](https://drive.google.com/file/d/1yvMoJt126pRLYjBn00ejeU6SiIFrHZTF/view?usp=sharing)
+- 📄 Know about my experiences [https://bit.ly/Vaibhav_Pallod_Resume](https://bit.ly/Vaibhav_Pallod_Resume)
 
 - ⚡ Some facts about me **I like to help people a lot. I do many social activities and participate in them.**
 
